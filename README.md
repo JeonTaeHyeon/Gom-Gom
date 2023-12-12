@@ -1,7 +1,7 @@
 # 2022 Hanium Project
 # 자연어처리를 활용한 일기 감정 분석 및 컨텐츠 추천 프로그램
 #### Project title : Gom-Gom
-#### Project period : 2022.05 ~
+#### Project period : 2022.05 ~ 2022.10
 #### Git Lab : https://lab.hanium.or.kr/22_HF252/22_hf252
 #### 인하대학교 김다연 윤서영 이연상 전태현 정병훈
 -----------------------
